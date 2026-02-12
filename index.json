@@ -359,6 +359,45 @@
       "updated": "2026-02-12"
     },
     {
+      "name": "wc3_jaina",
+      "display_name": "Jaina Proudmore (WarCraft 3)",
+      "version": "1.0.0",
+      "description": "Jaina Proudmore (WarCraft 3) sound pack from WarCraft 3",
+      "author": {
+        "name": "OmegaZero",
+        "github": "OmegaZero"
+      },
+      "trust_tier": "community",
+      "categories": [
+        "session.start",
+        "task.acknowledge",
+        "task.complete",
+        "task.error",
+        "input.required",
+        "resource.limit",
+        "user.spam"
+      ],
+      "language": "en",
+      "license": "MIT",
+      "sound_count": 13,
+      "total_size_bytes": 1052426,
+      "source_repo": "OmegaZero/openpeon-jaina",
+      "source_ref": "v1.0.0",
+      "source_path": ".",
+      "manifest_sha256": "cde6367b42906933d72ecdae706ab9217ac9f382c407cb41ef62b3eb89598b47",
+      "tags": [
+        "gaming",
+        "warcraft3",
+        "rts"
+      ],
+      "preview_sounds": [
+        "JainaCanHelp.wav",
+        "JainaWhatsThePlan.wav"
+      ],
+      "added": "2026-02-12",
+      "updated": "2026-02-12"
+    },    
+    {
       "name": "molag_bal",
       "display_name": "Molag Bal",
       "version": "1.0.0",
